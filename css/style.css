@@ -26,7 +26,6 @@ ul a:hover {
   letter-spacing: 3px;
   padding: 10px;
   margin: 10px;
-  cursor: pointer;
 }
 main {
   margin-top: 50px;
@@ -72,12 +71,4 @@ img {
   width: 250px;
   border: 2px solid rgb(228, 100, 100);
   border-radius: 10%;
-  filter: brightness(0.5);
-}
-.iteam img:hover {
-  width: 100%;
-  border: 2px solid rgb(228, 100, 100);
-  border-radius: 10%;
-  filter: none;
-  cursor: pointer;
 }
